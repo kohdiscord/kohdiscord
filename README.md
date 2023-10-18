@@ -27,3 +27,4 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kohdiscord&theme=dark" alt="kohdiscord" /></p>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1061206666051334215)
