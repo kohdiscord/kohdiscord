@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kohdiscord&show_icons=true&locale=en&theme=dark" alt="kohdiscord" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kohdiscord&theme=dark" alt="kohdiscord" /></p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0ac2592-8224-416b-96c2-e755f9ef8547/deploy-status)](https://app.netlify.com/sites/whitewaitlist/deploys)
